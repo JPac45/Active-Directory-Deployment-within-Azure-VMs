@@ -20,11 +20,20 @@ This tutorial will demonstrate the functionality of Active Directory by creating
 
 <h2>Prerequisites</h2>
 
-This tutorial assumes you have already created a Win10 VM and Windows Server VM.
+This tutorial assumes you have already created a Win10 VM and Windows Server(Domain Controller) VM.
 
 
 <h2>Configuring IP addressess on both VMs</h2>
+<p>
+<b>
+This is needed to make sure both VMs are on the same Virtual Network.
 
+From the Domain Controller VM:
+  
+- Click Create 
+- Click Azure Virtual Machine
+- Choose an existing Resource Group that you previously created
+- Give the VM a name
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
