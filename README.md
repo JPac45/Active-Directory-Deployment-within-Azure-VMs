@@ -20,7 +20,7 @@ This tutorial will demonstrate the functionality of Active Directory by creating
 
 <h2>Prerequisites</h2>
 
-- Item 1
+This tutorial assumes you have already created a Win10 VM and Windows Server VM.
 
 
 <h2>Installation Steps</h2>
