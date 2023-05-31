@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/RYQyOsV.png"/>
 </p>
 
-<h1>Active-Directory-Deployment-within-Azure-VMs</h1>
+<h1>Active Directory Deployment within Azure VMs</h1>
 This tutorial will demonstrate the functionality of Active Directory by creating a username and allowing the username access into the domain.<br />
 
 
