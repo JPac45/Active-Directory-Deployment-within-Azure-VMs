@@ -50,7 +50,19 @@ PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY
 <br />
 
 <h2>Creating Admin User and Organizational Units</h2>
+<p>
+<b>
 
+- Click Create 
+- Click Azure Virtual Machine
+- Choose an existing Resource Group that you previously created
+- Give the VM a name
+- Select the region (it should be the same as the resource group)
+- Select Windows 10 under Image
+- Choose Standard size
+- Create username and password; and confirm password
+- Click Create once validation is passed VM will be created.</b>
+<p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
