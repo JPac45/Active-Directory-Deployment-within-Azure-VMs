@@ -23,7 +23,7 @@ This tutorial will demonstrate the functionality of Active Directory by creating
 This tutorial assumes you have already created a Win10 VM and Windows Server VM.
 
 
-<h2>Installation Steps</h2>
+<h2>Configuring IP addressess on both VMs</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
