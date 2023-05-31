@@ -48,3 +48,21 @@ PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY
 PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
 </p>
 <br />
+
+<h2>Creating Admin User and Organizational Units</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
+</p>
+<br />
