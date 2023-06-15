@@ -39,7 +39,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
  
 
 <p>
-<img src="https://i.imgur.com/FdLba3E.mp4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZYbzgnt.gif"/>
 </p>
 <br />
 
