@@ -28,10 +28,11 @@ This tutorial assumes you have already created a Win10 VM and Windows Server 202
 <b>
 This is needed to make sure both VMs are on the same Virtual Network.
 
-Within Azure, select the Windows Server 2022 VM:
+  Within Azure Virtual Machines, select the Windows Server 2022 VM:</b>
   
-- Click 
-- Click 
+- Click on the Windows Server 2023 (In this example, it is named DC-1)
+- Click Networking under settings on the left
+- Click the highlighted link after Network Interface:
 - Choose an existing Resource Group that you previously created
 - Give the VM a name
 <p>
