@@ -56,12 +56,16 @@ This is needed to make sure both VMs are on the same Virtual Network.
 </p>
 <br />
 
-
+<p>
+<b>Ensure Connectivity between the Client and Domain Controller:</b>
+  
+- Click on either Domain Controller DC-1 or the Client
+- Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
+
 </p>
 <br />
 
