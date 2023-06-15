@@ -28,7 +28,7 @@ This tutorial assumes you have already created a Win10 VM and Windows Server 202
 <b>
 This is needed to make sure both VMs are on the same Virtual Network.
 
-From the Domain Controller VM:
+From the Windows Server 2022 VM:
   
 - Click 
 - Click 
