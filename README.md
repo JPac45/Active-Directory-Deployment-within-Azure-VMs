@@ -41,8 +41,15 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
+<b> Within Azure Virtual Machines, select the Windows Server 2022 VM:</b>
+  
+- Click on the Windows Server 2023 (In this example, it is named DC-1)
+- Click Networking under settings on the left
+- Click the highlighted link after Network Interface:
+- Click IP configurations under settings on the left
 </p>
 <br />
 
