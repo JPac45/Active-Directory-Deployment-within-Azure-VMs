@@ -20,7 +20,7 @@ This tutorial will demonstrate the functionality of Active Directory by creating
 
 <h2>Prerequisites</h2>
 
-This tutorial assumes you have already created a Win10 VM and Windows Server(Domain Controller) VM.
+This tutorial assumes you have already created a Win10 VM and Windows Server 2022(Domain Controller) VM. Active Directory will be installed on the Windows Server 2022 VM, while the Win10 VM will be used to gain access to the Domain Controller.
 
 
 <h2>Configuring IP addressess on both VMs</h2>
@@ -30,8 +30,8 @@ This is needed to make sure both VMs are on the same Virtual Network.
 
 From the Domain Controller VM:
   
-- Click Create 
-- Click Azure Virtual Machine
+- Click 
+- Click 
 - Choose an existing Resource Group that you previously created
 - Give the VM a name
 <p>
