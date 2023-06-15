@@ -39,27 +39,23 @@ This is needed to make sure both VMs are on the same Virtual Network.
  
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FdLba3E.mp4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<b> Within Azure Virtual Machines, select the Windows Server 2022 VM:</b>
+<b> Within Azure Virtual Machines, we need to make sure both the Domain Controller and Client are on the same Virtual Network:</b>
   
-- Click on the Windows Server 2023 (In this example, it is named DC-1)
-- Click Networking under settings on the left
-- Click the highlighted link after Network Interface:
-- Click IP configurations under settings on the left
+- Click on either Domain Controller DC-1 or the Client
+- Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same
+
+  
+<p>
+<img src="https://i.imgur.com/kwpwubM.gif"/>
+ 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
