@@ -35,7 +35,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 - Click the highlighted link after Network Interface:
 - Click IP configurations under settings on the left
 - Under Private IP Address, Click on the word Dynamic
-- Click on Static to make the IP address static
+- Click on Static and then Save to make the IP address static
  
 
 <p>
