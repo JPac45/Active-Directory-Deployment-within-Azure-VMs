@@ -59,7 +59,9 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <p>
 <b>Ensure Connectivity between the Client and Domain Controller:</b>
   
-- Click on either Domain Controller DC-1 or the Client
+- Get Client's Public IP address with Azure
+- Open Remote Desktop Connection from your desktop, and use Client's IP address from above to connect to the Client VM. (You must also have the client userid and password when you created this Client VM earlier, to gain access via Remote Desktop Connection.)
+- Get Client's Public IP address with Azure 
 - Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
