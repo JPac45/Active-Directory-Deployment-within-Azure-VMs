@@ -57,10 +57,11 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <br />
 
 <p>
-<b>Ensure Connectivity between the Client and Domain Controller:</b>
+<b>DON'T KNOW IF I NEED THIS SECTION   Ensure Connectivity between the Client and Domain Controller:</b>
   
-- Get Client's Public IP address with Azure
+- Get Client's Public IP address within Azure
 - Open Remote Desktop Connection from your desktop, and use Client's IP address from above to connect to the Client VM. (You must also have the client userid and password when you created this Client VM earlier, to gain access via Remote Desktop Connection.)
+- Copy DC-1 private IP address within Azure
 - Get Client's Public IP address with Azure 
 - Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same
 <p>
@@ -68,6 +69,58 @@ This is needed to make sure both VMs are on the same Virtual Network.
 </p>
 <p>
 
+</p>
+<br />
+
+<h2>Installing Active Directory on Domain Controller</h2>
+<p>
+<b>
+
+- Click Create 
+- Click Azure Virtual Machine
+- Choose an existing Resource Group that you previously created
+- Give the VM a name
+- Select the region (it should be the same as the resource group)
+- Select Windows 10 under Image
+- Choose Standard size
+- Create username and password; and confirm password
+- Click Create once validation is passed VM will be created.</b>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
+</p>
+<br />
+
+<h2>Creating Admin User and Organizational Units</h2>
+<p>
+<b>
+
+- Click Create 
+- Click Azure Virtual Machine
+- Choose an existing Resource Group that you previously created
+- Give the VM a name
+- Select the region (it should be the same as the resource group)
+- Select Windows 10 under Image
+- Choose Standard size
+- Create username and password; and confirm password
+- Click Create once validation is passed VM will be created.</b>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
 </p>
 <br />
 
