@@ -20,7 +20,7 @@ This tutorial will demonstrate the functionality of Active Directory by creating
 
 <h2>Prerequisites</h2>
 
-This tutorial assumes you have already created a Win10 VM and Windows Server 2022(Domain Controller) VM. Active Directory will be installed on the Windows Server 2022 VM, while the Win10 VM will be used to gain access to the Domain Controller.
+This tutorial assumes you have already created a Win10 VM and Windows Server 2022(Domain Controller) VM.  <a href="https://github.com/JPac45/Creating-VMs-within-Azure">CLICK HERE</a> for the VM Creation Tutorial.   Active Directory will be installed on the Windows Server 2022 VM, while the Win10 VM will be used to gain access to the Domain Controller.
 
 
 <h2>Configuring IP addressess on both VMs</h2>
