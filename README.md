@@ -33,8 +33,11 @@ This is needed to make sure both VMs are on the same Virtual Network.
 - Click on the Windows Server 2023 (In this example, it is named DC-1)
 - Click Networking under settings on the left
 - Click the highlighted link after Network Interface:
-- Choose an existing Resource Group that you previously created
-- Give the VM a name
+- Click IP configurations under settings on the left
+- Under Private IP Address, Click on the word Dynamic
+- Click on Static to make the IP address static
+ 
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
