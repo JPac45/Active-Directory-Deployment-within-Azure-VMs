@@ -30,12 +30,12 @@ This is needed to make sure both VMs are on the same Virtual Network.
 
   Within Azure Virtual Machines, select the Windows Server 2022 VM:</b>
   
-- Click on the Windows Server 2023 (In this example, it is named DC-1)
-- Click Networking under settings on the left
-- Click the highlighted link after Network Interface:
-- Click IP configurations under settings on the left
-- Under Private IP Address, Click on the word Dynamic
-- Click on Static and then Save to make the IP address static
+- Click on the Windows Server 2023 (In this example, it is named DC-1).
+- Click Networking under settings on the left.
+- Click the highlighted link after Network Interface:.
+- Click IP configurations under settings on the left.
+- Under Private IP Address, Click on the word Dynamic.
+- Click on Static and then Save to make the IP address static.
  
 
 <p>
@@ -46,8 +46,8 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <p>
 <b> Within Azure Virtual Machines, we need to make sure both the Domain Controller and Client are on the same Virtual Network:</b>
   
-- Click on either Domain Controller DC-1 or the Client
-- Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same
+- Click on either Domain Controller DC-1 or the Client.
+- Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same.
 
   
 <p>
@@ -59,12 +59,12 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <p>
 <b>Ensure Connectivity between the Client and Domain Controller:</b>
   
-- Get Client's Public IP address within Azure
+- Get Client's Public IP address within Azure.
 - Open Remote Desktop Connection from your desktop, and use Client's IP address from above to connect to the Client VM. (You must also have the client userid and password when you created this Client VM earlier, to gain access via Remote Desktop Connection.)
-- Copy DC-1 Public IP address and Private IP address within Azure
+- Copy DC-1 Public IP address and Private IP address within Azure.
 - Open Remote Desktop Connection from your desktop, and use DC-1 IP address from above to connect to the DC-1 VM. (You must also have the DC-1 userid and password when you created this DC-1 VM earlier.)
 - In order to Ping DC-1 from Client, ICMP traffic has to be allowed through DC-1 firewall. Open Windows Defender Firewall with Advanced Security via search bar.
-- Click Inbound Rules on the left, Sort Protocol and look for ICMPv4. Then Enable the two rules named "Core Networking Diagnostics -ICMP Echo Request (ICMPv4-In)"
+- Click Inbound Rules on the left, Sort Protocol and look for ICMPv4. Then Enable the two rules named "Core Networking Diagnostics -ICMP Echo Request (ICMPv4-In)".
 - From Client's desktop, open CMD and use the ping -t (DC-1 private IP address).
 
 <p>
