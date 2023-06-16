@@ -57,7 +57,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <br />
 
 <p>
-<b>DON'T KNOW IF I NEED THIS SECTION   Ensure Connectivity between the Client and Domain Controller:</b>
+<b>Ensure Connectivity between the Client and Domain Controller:</b>
   
 - Get Client's Public IP address within Azure
 - Open Remote Desktop Connection from your desktop, and use Client's IP address from above to connect to the Client VM. (You must also have the client userid and password when you created this Client VM earlier, to gain access via Remote Desktop Connection.)
