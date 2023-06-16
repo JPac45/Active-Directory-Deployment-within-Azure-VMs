@@ -83,7 +83,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 - Click Add roles and features
 - Click Next about 3 times, then under Roles select Active Directory Domain Services. Click Next a few times, then Click Install. Click Close to finish installation.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rhmvVGw.gif"/>
 </p>  
   
 - Give the VM a name
