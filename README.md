@@ -81,7 +81,11 @@ This is needed to make sure both VMs are on the same Virtual Network.
 
 - Login to DC-1 via Remote Desktop Connection and open Server Manager.
 - Click Add roles and features
-- Choose an existing Resource Group that you previously created
+- Click Next about 3 times, then under Roles select Active Directory Domain Services. Click Next a few times, then Click Install. Click Close to finish installation.
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>  
+  
 - Give the VM a name
 - Select the region (it should be the same as the resource group)
 - Select Windows 10 under Image
