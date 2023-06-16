@@ -89,10 +89,10 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <b>Post-deployment Configuration of Domain Services:</b>
 - Click on highlighted link "Promote this server to a domain controller'. This is found by moving your cursor to the yellow triangle.
 - Select "Add a new forest", and type in a name for the field Root domain name:. Then click Next.
-- Type in a Password: twice and select Next.
+- Type in a Password: and select Next.
 - Click Next a few times, then click Install. Once confirguration is complete, the program will restart DC-1. You will have to reconnect to DC-1 via Remote Desktop Connection again.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/IvISX3h.gif"/>
 </p>
 <p>
 
