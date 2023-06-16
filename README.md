@@ -62,6 +62,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 - Get Client's Public IP address within Azure
 - Open Remote Desktop Connection from your desktop, and use Client's IP address from above to connect to the Client VM. (You must also have the client userid and password when you created this Client VM earlier, to gain access via Remote Desktop Connection.)
 - Copy DC-1 private IP address within Azure
+- Open Remote Desktop Connection from your desktop, and use DC-1 IP address from above to connect to the DC-1 VM. (You must also have the DC-1 userid and password when you created this DC-1 VM earlier.)
 - Get Client's Public IP address with Azure 
 - Check under Virtual network/subnet and make note of the Virtual Network to make sure both are the same
 <p>
