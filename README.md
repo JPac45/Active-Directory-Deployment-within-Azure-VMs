@@ -65,10 +65,10 @@ This is needed to make sure both VMs are on the same Virtual Network.
 - Open Remote Desktop Connection from your desktop, and use DC-1 IP address from above to connect to the DC-1 VM. (You must also have the DC-1 userid and password when you created this DC-1 VM earlier.)
 - In order to Ping DC-1 from Client, ICMP traffic has to be allowed through DC-1 firewall. Open Windows Defender Firewall with Advanced Security via search bar.
 - Click Inbound Rules on the left, Sort Protocol and look for ICMPv4. Then Enable the two rules named "Core Networking Diagnostics -ICMP Echo Request (ICMPv4-In)".
-- From Client's desktop, open CMD and use the ping -t (DC-1 private IP address).
+- From Client's desktop, open CMD and use the ping -t (DC-1 private IP address). You will now see ping replies back from DC-1.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uppU2oY.gif"/>
 </p>
 <p>
 
