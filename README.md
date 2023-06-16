@@ -78,7 +78,6 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <h2>Installing Active Directory on Domain Controller</h2>
 <p>
 
-
 - Login to DC-1 via Remote Desktop Connection and open Server Manager.
 - Click Add roles and features
 - Click Next about 3 times, then under Roles select Active Directory Domain Services. Click Next a few times, then Click Install. Click Close to finish installation.
@@ -86,7 +85,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <img src="https://i.imgur.com/rhmvVGw.gif"/>
 </p>  
   
-- Give the VM a name
+- Give 
 - Select the region (it should be the same as the resource group)
 - Select Windows 10 under Image
 - Choose Standard size
