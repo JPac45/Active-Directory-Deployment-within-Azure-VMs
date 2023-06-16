@@ -79,8 +79,8 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <p>
 <b>
 
-- Click Create 
-- Click Azure Virtual Machine
+- Login to DC-1 via Remote Desktop Connection and open Server Manager.
+- Click Add roles and features
 - Choose an existing Resource Group that you previously created
 - Give the VM a name
 - Select the region (it should be the same as the resource group)
