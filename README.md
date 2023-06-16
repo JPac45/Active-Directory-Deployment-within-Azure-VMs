@@ -77,7 +77,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 
 <h2>Installing Active Directory on Domain Controller</h2>
 <p>
-<b>
+
 
 - Login to DC-1 via Remote Desktop Connection and open Server Manager.
 - Click Add roles and features
