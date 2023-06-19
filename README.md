@@ -133,6 +133,18 @@ From the Server Manager Dashboard of the Domain Controller:
 </p>
 <br />
 
+<b>Creating Admin user/account:</b>
+
+- Select 
+- Name th
+- Choose 
+- Disconnect 
+<p>
+<img src="">
+</p>
+<p>
+</p>
+<br />
 <h2>Creating Admin User and Organizational Units</h2>
 <p>
 <b>
