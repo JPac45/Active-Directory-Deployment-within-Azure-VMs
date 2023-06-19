@@ -133,8 +133,10 @@ From the Server Manager Dashboard of the Domain Controller:
 </p>
 <br />
 
-<b>Creating Admin user/account:</b>
-
+<b>Join Client-1 to your domain (mydomain.com):</b>
+<p>
+  
+<p> 
 - Select 
 - Name th
 - Choose 
