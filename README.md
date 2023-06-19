@@ -99,14 +99,15 @@ This is needed to make sure both VMs are on the same Virtual Network.
 <br />
 
 
-<h2>Creating Admin User and Organizational Units</h2>
+<h2>Creating Organizational Units</h2>
 <p>
 From the Server Manager Dashboard of the Domain Controller:
 
-- Click Create 
-- Click Azure Virtual Machine
-- Choose an existing Resource Group that you previously created
-- Give the VM a name
+- Click On Tools (top right) and choose Active Directory Users and Computers.
+- From the user interface to creat Organizational Units, right-click on mydomain.com, choose New, choose Organizational Units.
+- Type a name for the org unit. In this case, _EMPLOYEES is used.
+- Create another org unit. This one is _ADMINS
+- The two created org units are now under mydomain.com.
 - Select the region (it should be the same as the resource group)
 - Select Windows 10 under Image
 - Choose Standard size
