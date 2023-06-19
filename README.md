@@ -118,25 +118,18 @@ From the Server Manager Dashboard of the Domain Controller:
 <br />
 
 
-
-
-
-
-
-
 <b>Creating Admin user/account:</b>
 
 - Select _ADMINS, right-click choose New and User
 - Name the user Jane Doe, User logon name: jane_admin, click Next
 - Choose a paswword, for this exercise Uncheck User must change password at next logon, Check Password never expires, Click Next.
 - Last steps to make jane_admin an admin: Right-click on jane doe, from the Member Of tab - Click Add, tyep Domain Admins and click OK twic, then Click Apply and then OK.
-- Click Create once validation is passed VM will be created.</b>
+- Disconnect or logoff from DC-1, and logon onto DC-1 using jane_admin credentials: user id -  mydomain.com/jane_admin and its password.
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RcavIwJ.gif">
 </p>
 <p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
 </p>
 <br />
 
