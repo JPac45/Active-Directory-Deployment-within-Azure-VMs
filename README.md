@@ -101,7 +101,7 @@ This is needed to make sure both VMs are on the same Virtual Network.
 
 <h2>Creating Admin User and Organizational Units</h2>
 <p>
-<b>
+From the Server Manager Dashboard of the Domain Controller:
 
 - Click Create 
 - Click Azure Virtual Machine
