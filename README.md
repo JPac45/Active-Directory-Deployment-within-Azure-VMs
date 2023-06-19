@@ -124,12 +124,12 @@ From the Server Manager Dashboard of the Domain Controller:
 
 
 
-<b>Creating Admin user:</b>
+<b>Creating Admin user/account:</b>
 
-- Select the region (it should be the same as the resource group)
-- Select Windows 10 under Image
-- Choose Standard size
-- Create username and password; and confirm password
+- Select _ADMINS, right-click choose New and User
+- Name the user Jane Doe, User logon name: jane_admin, click Next
+- Choose a paswword, for this exercise Uncheck User must change password at next logon, Check Password never expires, Click Next.
+- Last steps to make jane_admin an admin: Right-click on jane doe, from the Member Of tab - Click Add, tyep Domain Admins and click OK twic, then Click Apply and then OK.
 - Click Create once validation is passed VM will be created.</b>
 <p>
 <p>
