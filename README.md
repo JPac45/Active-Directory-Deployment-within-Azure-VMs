@@ -108,6 +108,24 @@ From the Server Manager Dashboard of the Domain Controller:
 - Type a name for the org unit. In this case, _EMPLOYEES is used.
 - Create another org unit. This one is _ADMINS
 - The two created org units are now under mydomain.com.
+<p>
+<p>
+<img src="https://i.imgur.com/8s01CpT.gif"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+
+
+
+
+<b>Creating Admin user:</b>
+
 - Select the region (it should be the same as the resource group)
 - Select Windows 10 under Image
 - Choose Standard size
