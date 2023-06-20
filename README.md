@@ -134,15 +134,25 @@ From the Server Manager Dashboard of the Domain Controller:
 <br />
 
 <b>Join Client-1 to your domain (mydomain.com):</b>
+
+Use 
+
+- Right-click on Start, select System, click Rename this PC (advanced).
+- Click Change.
+- Select Domain, type - mydomain.com, click OK.
 <p>
+<img src="">  
+<p>
+<p>
+  
 Use Remote Desktop Connection to log onto your Client VM  
-<p> 
-- Select 
-- Name th
-- Choose 
-- Disconnect 
+
+- Right-click on Start, select System, click Rename this PC (advanced).
+- Click Change.
+- Select Domain, type - mydomain.com, click OK.
+- Enter username & password i.e.  mydomain.com\jane_admin   and its password. You will then need to restart the Client-1 VM.
 <p>
-<img src="">
+<img src="https://i.imgur.com/G7V4ucN.gif">
 </p>
 <p>
 </p>
