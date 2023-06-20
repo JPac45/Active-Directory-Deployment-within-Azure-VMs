@@ -135,7 +135,7 @@ From the Server Manager Dashboard of the Domain Controller:
 
 <b>Join Client-1 to your domain (mydomain.com):</b>
 <p>
-  
+Use Remote Desktop Connection to log onto your Client VM  
 <p> 
 - Select 
 - Name th
