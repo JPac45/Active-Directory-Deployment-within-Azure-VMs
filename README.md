@@ -147,7 +147,7 @@ Within Azure, Client-1 VM needs its DNS setting pointing to the Domain Controlle
 <p>
 <p>
   
-Use Remote Desktop Connection to log onto your Client VM  
+Use Remote Desktop Connection to log onto your Client-1 VM  
 
 - Right-click on Start, select System, click Rename this PC (advanced).
 - Click Change.
