@@ -135,13 +135,15 @@ From the Server Manager Dashboard of the Domain Controller:
 
 <b>Join Client-1 to your domain (mydomain.com):</b>
 
-Use 
+Within Azure, Client-1 VM needs its DNS setting pointing to the Domain Controller's IP address. 
 
-- Right-click on Start, select System, click Rename this PC (advanced).
-- Click Change.
-- Select Domain, type - mydomain.com, click OK.
+- From Azure Virtual Machines Client-1, click on Networking.
+- Select the high-lighted link after Network Interface:
+- Click on DNS servers.
+- Select Custom underneath DNS Servers, and type in DC-1's IP address. Click Save.
+- Go back to Client-1's main page and restart it. DNS setting should now be in effect.
 <p>
-<img src="">  
+<img src="https://i.imgur.com/2aXvYqX.gif">  
 <p>
 <p>
   
