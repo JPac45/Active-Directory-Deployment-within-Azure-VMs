@@ -165,7 +165,7 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 - Click ADD. Type in "Domain Users". Click Check Names. Click OK.
 - Click Ok again. Now all domain users are allowed to login into Client-1.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png"
+<img src="https://i.imgur.com/dU8NnNY.gif"
 </p>
 <br />
 <h2>Creating Admin User and Organizational Units</h2>
