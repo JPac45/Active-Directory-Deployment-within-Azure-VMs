@@ -156,7 +156,15 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 <p>
 <img src="https://i.imgur.com/G7V4ucN.gif">
 </p>
+<br />
+Use Remote Desktop Connection to log onto your Client-1 VM  
+
+- Right-click on Start, select System, click Rename this PC (advanced).
+- Click Change.
+- Select Domain, type - mydomain.com, click OK.
+- Enter username & password i.e.  mydomain.com\jane_admin   and its password. You will then need to restart the Client-1 VM.
 <p>
+<img src="https://i.imgur.com/DJmEXEB.png"
 </p>
 <br />
 <h2>Creating Admin User and Organizational Units</h2>
