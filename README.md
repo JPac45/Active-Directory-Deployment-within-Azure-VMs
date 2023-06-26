@@ -159,10 +159,11 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 <br />
  
 
-- Right-click on Start, select System, click Rename this PC (advanced).
-- Click Change.
-- Select Domain, type - mydomain.com, click OK.
-- Enter username & password i.e.  mydomain.com\jane_admin   and its password. You will then need to restart the Client-1 VM.
+- Logon back onto Client-1 as mydomain.com\jane_admin via Remote Desktop Connection.
+- Go to Start > System. Click Remote Desktop.
+- Click "Select users that can remotely access this PC".
+- Click ADD. Type in "Domain Users". Click Check Names. Click OK.
+- Click Ok again. Now all domain users are allowed to login into Client-1.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png"
 </p>
@@ -171,6 +172,9 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 <p>
 <b>
 
+- Logon back onto Domain Controller DC-1 via Remote Desktop Connection.
+- Open Active Directory Users and Computers.
+- Click Users folder, double-click Domain Users, select Members to see
 - Click Create 
 - Click Azure Virtual Machine
 - Choose an existing Resource Group that you previously created
