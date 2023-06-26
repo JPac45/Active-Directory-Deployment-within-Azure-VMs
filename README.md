@@ -168,12 +168,12 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 <img src="https://i.imgur.com/dU8NnNY.gif"
 </p>
 <br />
-<h2>Creating Admin User and Organizational Units</h2>
+<h2>Creating Many Users and logging into Client-1 with new user</h2>
 <p>
-<b>
-
-- Logon back onto Domain Controller DC-1 via Remote Desktop Connection.
-- Open Active Directory Users and Computers.
+To create many users will need to use a <a href="https://github.com/JPac45/Active-Directory-Random-User-Creation-Script">SCRIPT.  
+  
+- Logon back onto Domain Controller DC-1 as jane-admin via Remote Desktop Connection.
+- Open PoweShell_ise as an administrator.
 - Click Users folder, double-click Domain Users, select Members to see
 - Click Create 
 - Click Azure Virtual Machine
