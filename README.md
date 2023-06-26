@@ -185,11 +185,3 @@ To create many users, you will need to use a <a href="https://github.com/JPac45/
 <p>
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
-</p>
-<br />
