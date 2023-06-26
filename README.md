@@ -170,26 +170,19 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 <br />
 <h2>Creating Many Users and logging into Client-1 with new user</h2>
 <p>
-To create many users will need to use a <a href="https://github.com/JPac45/Active-Directory-Random-User-Creation-Script">SCRIPT.  
+To create many users, you will need to use a <a href="https://github.com/JPac45/Active-Directory-Random-User-Creation-Script">SCRIPT.  
   
 - Logon back onto Domain Controller DC-1 as jane-admin via Remote Desktop Connection.
 - Open PoweShell_ise as an administrator.
-- Click Users folder, double-click Domain Users, select Members to see
-- Click Create 
-- Click Azure Virtual Machine
-- Choose an existing Resource Group that you previously created
-- Give the VM a name
-- Select the region (it should be the same as the resource group)
-- Select Windows 10 under Image
-- Choose Standard size
-- Create username and password; and confirm password
-- Click Create once validation is passed VM will be created.</b>
+- Copy the whole Script, Create a new file and paste it into Powershell_ise.
+- Click the Run button (Play icon). As script is running, via Active Directory Users and Computers - within the _EMPLOYESS folder, you will see the user that have been created.
+- You can click the Stop button on Powershell or let it continue until it creates all the users.
+- Take any user created, and logon to Client-1 via Remote Desktop Connection using that user and its password - "Passwor1"
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AVuFnrg.gif"/>
 </p>
 <p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
 </p>
 <br />
 
