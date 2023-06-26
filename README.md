@@ -157,7 +157,7 @@ Use Remote Desktop Connection to log onto your Client-1 VM
 <img src="https://i.imgur.com/G7V4ucN.gif">
 </p>
 <br />
-Use Remote Desktop Connection to log onto your Client-1 VM  
+ 
 
 - Right-click on Start, select System, click Rename this PC (advanced).
 - Click Change.
